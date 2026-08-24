@@ -1,0 +1,6 @@
+.vscode
+main
+build/
+*.o
+*.out
+malloc_executable
